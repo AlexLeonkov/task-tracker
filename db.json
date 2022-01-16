@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Dentist",
+      "day": "tomorrow",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Gym",
+      "day": "today",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Uni",
+      "day": "12.02.23",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
